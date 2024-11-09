@@ -197,7 +197,7 @@ li {
     color: #f9faf8;
     width: 130px;
     height: 30px;
-    border: 2px solig #f9faf8;
+    border: 2px solid #f9faf8;
     border-radius: 5px;
     cursor: pointer;
 }
